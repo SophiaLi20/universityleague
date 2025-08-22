@@ -1,1 +1,1 @@
-# universityleague
+# university-league
